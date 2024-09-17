@@ -1,0 +1,27 @@
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\edgar\OneDrive\Documentos\C#\Arreglos\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\denis\OneDrive\Documentos\Ejercio2\Arreglos-sum-y-mult\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
+C:\Users\denis\OneDrive\Escritorio\SumayMultipica\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Escritorio\SumayMultipica\Ejercicio 2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\denis\OneDrive\Escritorio\SumayMultipica\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\denis\OneDrive\Escritorio\SumayMultipica\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Escritorio\SumayMultipica\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Escritorio\SumayMultipica\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\denis\OneDrive\Escritorio\SumayMultipica\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
